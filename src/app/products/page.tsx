@@ -15,7 +15,7 @@ const products = [
     originalPrice: "888",
     tag: "主推",
     desc: "A级跳舞兰10枝，金色丝带缎面礼盒",
-    img: "https://images.unsplash.com/photo-1455659817273-f96807779a8a?w=600&q=80",
+    img: "/images/1780991513037.jpg",
   },
   {
     name: "跳舞兰·雅致花篮",
@@ -23,7 +23,7 @@ const products = [
     originalPrice: "1680",
     tag: "高端",
     desc: "跳舞兰搭配进口桔梗，高端手提花篮",
-    img: "https://images.unsplash.com/photo-1487530811176-3780de880c2d?w=600&q=80",
+    img: "/images/1780991513076.jpg",
   },
   {
     name: "跳舞兰·蝴蝶兰组合",
@@ -31,7 +31,7 @@ const products = [
     originalPrice: "1980",
     tag: "限量",
     desc: "跳舞兰与蝴蝶兰的优雅碰撞，商务首选",
-    img: "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=600&q=80",
+    img: "/images/1780991513113.jpg",
   },
   {
     name: "跳舞兰·永生花礼盒",
@@ -39,7 +39,7 @@ const products = [
     originalPrice: "1298",
     tag: "礼盒",
     desc: "永生跳舞兰，可保存3年以上，送礼佳选",
-    img: "https://images.unsplash.com/photo-1508610048659-a06b669e3321?w=600&q=80",
+    img: "/images/1780991513168.jpg",
   },
   {
     name: "跳舞兰·开业花篮",
@@ -47,7 +47,7 @@ const products = [
     originalPrice: "2380",
     tag: "商务",
     desc: "大气红金配色，跳舞兰主花，祝贺开业大吉",
-    img: "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?w=600&q=80",
+    img: "/images/1780991513198.jpg",
   },
   {
     name: "跳舞兰·婚礼定制",
@@ -55,7 +55,7 @@ const products = [
     originalPrice: "3680",
     tag: "定制",
     desc: "专属花艺师一对一设计，婚礼全场花艺定制",
-    img: "https://images.unsplash.com/photo-1455659817273-f96807779a8a?w=600&q=80",
+    img: "/images/1780991513216.jpg",
   },
 ];
 
